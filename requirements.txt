@@ -1,0 +1,31 @@
+# Flask - Web framework
+Flask
+
+# Celery - Task queue
+celery
+
+# Redis - Message broker for Celery
+redis
+# Flower - Real-time monitoring of Celery tasks
+flower
+
+# Gunicorn - Production WSGI server
+gunicorn
+
+# Python-dotenv - For managing environment variables
+python-dotenv
+
+# Flask API development
+Flask-RESTful
+Flask-Cors
+
+# SQLAlchemy - ORM for database integration
+SQLAlchemy
+Flask-SQLAlchemy
+
+# Pytest - For testing
+pytest
+pytest-flask
+
+# Matplotlib or Chart.js (optional, for visualization in the dashboard)
+matplotlib
